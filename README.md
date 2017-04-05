@@ -2,7 +2,7 @@
 
 ### End to end flow
 
-An end to end flow using keyword driven framework to automate an end to end flow covering below steps:
+An end to end flow automated testing using keyword driven framework covering below steps:
 
     1. Login to the demo application Online Store
     2. Selecting a product category from Top Menu
