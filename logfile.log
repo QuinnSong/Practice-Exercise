@@ -1,39 +1,39 @@
-2017-04-07 22:06:10,135 INFO  [Log] +--------------------------------------------------------------------------------------+ 
-2017-04-07 22:06:10,136 INFO  [Log] |                                                                                      | 
-2017-04-07 22:06:10,136 INFO  [Log] |                                     LogIn_01 
-2017-04-07 22:06:10,136 INFO  [Log] |                                                                                        
-2017-04-07 22:06:10,136 INFO  [Log] Openning Browser 
-2017-04-07 22:06:19,033 INFO  [Log] Mozilla browser started 
-2017-04-07 22:06:19,779 INFO  [Log] Navigating to URL: http://www.store.demoqa.com 
-2017-04-07 22:06:25,618 INFO  [Log] Clicking on web element: btn_MyAccount 
-2017-04-07 22:06:25,863 INFO  [Log] Entering the text in txtbx_UserName 
-2017-04-07 22:06:27,797 INFO  [Log] Entering the text in txtbx_Password 
-2017-04-07 22:06:28,501 INFO  [Log] Clicking on web element: btn_LogIn 
-2017-04-07 22:06:28,840 INFO  [Log] Wait until element btn_LogOut is to be clickable 
-2017-04-07 22:06:33,675 INFO  [Log] Clicking on web element: menu_Product 
-2017-04-07 22:06:33,922 INFO  [Log] pick the first form and submit - i.e. Click Add to Cart button 
-2017-04-07 22:06:36,477 INFO  [Log] Wait until element btn_GoToCheckout is to be clickable 
-2017-04-07 22:06:40,083 INFO  [Log] Clicking on web element: btn_GoToCheckout 
-2017-04-07 22:06:40,267 INFO  [Log] Wait until element btn_Continue is to be clickable 
-2017-04-07 22:06:44,626 INFO  [Log] Clicking on web element: btn_Continue 
-2017-04-07 22:06:44,795 INFO  [Log] select a country from checkout page 
-2017-04-07 22:06:45,000 INFO  [Log] pick the first form and submit - i.e. Click Add to Cart button 
-2017-04-07 22:06:45,230 INFO  [Log] Wait for 5 seconds 
-2017-04-07 22:06:50,306 INFO  [Log] Entering the text in txtbx_Email 
-2017-04-07 22:06:50,690 INFO  [Log] Entering the text in txtbx_Fname 
-2017-04-07 22:06:50,876 INFO  [Log] Entering the text in txtbx_Lname 
-2017-04-07 22:06:51,051 INFO  [Log] Entering the text in txtArea_Addr 
-2017-04-07 22:06:51,364 INFO  [Log] Entering the text in txtbx_City 
-2017-04-07 22:06:51,615 INFO  [Log] Entering the text in txtbx_Pcode 
-2017-04-07 22:06:51,792 INFO  [Log] Entering the text in txtbx_Phone 
-2017-04-07 22:06:51,986 INFO  [Log] make sure checkbox - Same as billing address - is checked 
-2017-04-07 22:06:52,172 INFO  [Log] Clicking on web element: btn_Purchase 
-2017-04-07 22:06:52,362 INFO  [Log] confirm if order was placed successfully 
-2017-04-07 22:07:00,450 INFO  [Log] Closing the browser 
-2017-04-07 22:07:02,322 INFO  [Log] |                                                                                        
-2017-04-07 22:07:02,322 INFO  [Log] +                                      -E---N---D- 
-2017-04-07 22:07:02,322 INFO  [Log] +--------------------------------------------------------------------------------------+ 
-2017-04-07 22:07:02,322 INFO  [Log] + 
-2017-04-07 22:07:02,322 INFO  [Log] + 
-2017-04-07 22:07:02,322 INFO  [Log] + 
-2017-04-07 22:07:02,322 INFO  [Log] + 
+2017-04-08 08:46:17,259 INFO  [Log] +--------------------------------------------------------------------------------------+ 
+2017-04-08 08:46:17,259 INFO  [Log] |                                                                                      | 
+2017-04-08 08:46:17,260 INFO  [Log] |                                     LogIn_01 
+2017-04-08 08:46:17,260 INFO  [Log] |                                                                                        
+2017-04-08 08:46:17,260 INFO  [Log] Openning Browser 
+2017-04-08 08:46:25,786 INFO  [Log] Mozilla browser started 
+2017-04-08 08:46:26,634 INFO  [Log] Navigating to URL: http://www.store.demoqa.com 
+2017-04-08 08:46:32,568 INFO  [Log] Clicking on web element: btn_MyAccount 
+2017-04-08 08:46:32,784 INFO  [Log] Entering the text in txtbx_UserName 
+2017-04-08 08:46:35,256 INFO  [Log] Entering the text in txtbx_Password 
+2017-04-08 08:46:36,153 INFO  [Log] Clicking on web element: btn_LogIn 
+2017-04-08 08:46:36,434 INFO  [Log] Wait until element btn_LogOut is to be clickable 
+2017-04-08 08:46:39,165 INFO  [Log] Clicking on web element: menu_Product 
+2017-04-08 08:46:39,373 INFO  [Log] pick the first form and submit - i.e. Click Add to Cart button 
+2017-04-08 08:46:41,199 INFO  [Log] Wait until element btn_GoToCheckout is to be clickable 
+2017-04-08 08:46:42,820 INFO  [Log] Clicking on web element: btn_GoToCheckout 
+2017-04-08 08:46:42,969 INFO  [Log] Wait until element btn_Continue is to be clickable 
+2017-04-08 08:46:46,265 INFO  [Log] Clicking on web element: btn_Continue 
+2017-04-08 08:46:46,510 INFO  [Log] select a country from checkout page 
+2017-04-08 08:46:46,704 INFO  [Log] pick the first form and submit - i.e. Click Add to Cart button 
+2017-04-08 08:46:46,865 INFO  [Log] Wait for 5 seconds 
+2017-04-08 08:46:51,933 INFO  [Log] Entering the text in txtbx_Email 
+2017-04-08 08:46:52,294 INFO  [Log] Entering the text in txtbx_Fname 
+2017-04-08 08:46:52,513 INFO  [Log] Entering the text in txtbx_Lname 
+2017-04-08 08:46:52,840 INFO  [Log] Entering the text in txtArea_Addr 
+2017-04-08 08:46:53,231 INFO  [Log] Entering the text in txtbx_City 
+2017-04-08 08:46:53,488 INFO  [Log] Entering the text in txtbx_Pcode 
+2017-04-08 08:46:53,697 INFO  [Log] Entering the text in txtbx_Phone 
+2017-04-08 08:46:53,933 INFO  [Log] make sure checkbox - Same as billing address - is checked 
+2017-04-08 08:46:54,180 INFO  [Log] Clicking on web element: btn_Purchase 
+2017-04-08 08:46:54,395 INFO  [Log] confirm if order was placed successfully 
+2017-04-08 08:47:02,479 INFO  [Log] Closing the browser 
+2017-04-08 08:47:04,587 INFO  [Log] |                                                                                        
+2017-04-08 08:47:04,587 INFO  [Log] +                                      -E---N---D- 
+2017-04-08 08:47:04,587 INFO  [Log] +--------------------------------------------------------------------------------------+ 
+2017-04-08 08:47:04,587 INFO  [Log] + 
+2017-04-08 08:47:04,587 INFO  [Log] + 
+2017-04-08 08:47:04,587 INFO  [Log] + 
+2017-04-08 08:47:04,587 INFO  [Log] + 
