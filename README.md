@@ -12,7 +12,9 @@ An end to end flow automated testing using keyword driven framework covering bel
 
 ### Environment
 * 	Apache POI 3.15
-* 	Selenium Java client driver 3.3.1
+* 	Selenium 3.0.1
+* 	apache maven 3.3.9
+* 	log4j 1.2.17
 
 ### Website
 * [This awesome website](http://www.store.demoqa.com) is designed for automated testing
