@@ -36,4 +36,35 @@
         </activation>
       </profile>
     </profiles>
+      <dependencies>
+      	<dependency>
+      		<groupId>log4j</groupId>
+      		<artifactId>log4j</artifactId>
+      	</dependency>
+     <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+    </dependency>
+      </dependencies>
+      <dependencyManagement>
+      	<dependencies>
+      		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+      		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+			<dependency>
+    			<groupId>org.apache.poi</groupId>
+    			<artifactId>poi</artifactId>
+    			<version>3.15</version>
+			</dependency>
+      		<dependency>
+      			<groupId>log4j</groupId>
+      			<artifactId>log4j</artifactId>
+      			<version>1.2.17</version>
+      		</dependency>
+      		<dependency>
+      			<groupId>org.seleniumhq.selenium</groupId>
+      			<artifactId>selenium-java</artifactId>
+      			<version>3.3.1</version>
+      		</dependency>
+      	</dependencies>
+      </dependencyManagement>
 </project>
