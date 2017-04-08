@@ -7,10 +7,10 @@ public class Constants {
     //Declared as 'final', so that the value of this variable cannot be changed
     // 'String' & 'int' are the two data type for storing a type of value	
 	public static final String URL = "http://www.store.demoqa.com";
-	public static final String Path_TestData  = "E:\\hong\\workspace\\Practice Exercise\\src\\dataEngine\\DataEngine.xlsx";
+	public static final String Path_TestData  = "E:\\github\\Practice Exercise\\src\\dataEngine\\DataEngine.xlsx";
 	public static final String Path_logXml = "log4j.xml";
-	public static final String Path_OR  = "E:\\hong\\workspace\\Practice Exercise\\src\\config\\OR.txt"; 
-	public static final String File_TestData = "DataEngine.xlsx";
+	public static final String Path_OR  = "E:\\github\\Practice Exercise\\src\\config\\OR.txt"; 
+	//public static final String File_TestData = "DataEngine.xlsx";
  
 	//List of Data Sheet Column Numbers
 	public static final int Col_TestCaseID = 0;	
